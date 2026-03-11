@@ -1,1 +1,1 @@
-{'ver1':'4', 'ver2':'', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://amrosh.cc/2025/06/gbwhatsapp.html'}
+{'ver1':'6', 'ver2':'', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://omar-techs.blogspot.com/2025/12/whatsapp-amrosh.html'}
