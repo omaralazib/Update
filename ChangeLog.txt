@@ -1,1 +1,6 @@
-{'ver1':'25', 'ver2':'96', 'ver3':'\nâ€¢ [new update].\nâ€¢ It contains many great new features.\nâ€¢ More important fixes and improvements.\nâ€¢ [طھط­ط¯ظٹط« ط¬ط¯ظٹط¯ ظ…ظ…طھط¹].\nâ€¢ ظٹط­طھظˆظٹ ط¹ظ„ظ‰ ط§ظ„ط¹ط¯ظٹط¯ ظ…ظ† ط§ظ„ظ…ط²ط§ظٹط§ ط§ظ„ط¬ط¯ظٹط¯ ط§ظ„ط±ط§ط¦ط¹ط©.\nâ€¢ ظ…ط²ظٹط¯ ط¥طµظ„ط§ط­ط§طھ ظˆطھط­ط³ظٹظ†ط§طھ ط£ط®ط±ظ‰ ظ…ظ‡ظ…ط©.\n' , 'dli':'https://app.9aleh.com/2025/06/gbwhatsapp.html'}
+{
+'ver1':'25',
+'ver2':'96',
+'ver3':'\n• [New Update].\n• It contains many great new features.\n• More important fixes and improvements.\n• [تحديث جديد ممتع].\n• يحتوي على العديد من المزايا الجديدة الرائعة.\n• مزيد من الإصلاحات والتحسينات الأخرى المهمة.\n',
+'dli':'https://omar-techs.blogspot.com/2025/12/whatsapp-amrosh.html'
+}
