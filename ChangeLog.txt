@@ -1,12 +1,1 @@
-{{'ver1':'5', 'ver2':'', 'ver3':'\n•
-[Important Update]\n
-• A new version of WhatsApp is available\n
-• Please download and install the latest version to continue using the app without problems\n
-• Improved performance and fixed some errors\n
-\n
-[تحديث مهم]\n
-• يتوفر إصدار جديد من واتساب\n
-• يرجى تنزيل وتثبيت أحدث إصدار للاستمرار في استخدام التطبيق بدون مشاكل\n
-• تم تحسين الأداء وإصلاح بعض الأخطاء\n
-' , 'dli':'https://omar-techs.blogspot.com/2025/12/whatsapp-amrosh.html'}
-
+{'ver1':'25', 'ver2':'96', 'ver3':'\nâ€¢ [new update].\nâ€¢ It contains many great new features.\nâ€¢ More important fixes and improvements.\nâ€¢ [طھط­ط¯ظٹط« ط¬ط¯ظٹط¯ ظ…ظ…طھط¹].\nâ€¢ ظٹط­طھظˆظٹ ط¹ظ„ظ‰ ط§ظ„ط¹ط¯ظٹط¯ ظ…ظ† ط§ظ„ظ…ط²ط§ظٹط§ ط§ظ„ط¬ط¯ظٹط¯ ط§ظ„ط±ط§ط¦ط¹ط©.\nâ€¢ ظ…ط²ظٹط¯ ط¥طµظ„ط§ط­ط§طھ ظˆطھط­ط³ظٹظ†ط§طھ ط£ط®ط±ظ‰ ظ…ظ‡ظ…ط©.\n' , 'dli':'https://app.9aleh.com/2025/06/gbwhatsapp.html'}
