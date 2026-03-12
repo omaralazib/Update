@@ -1,1 +1,12 @@
+{{'ver1':'7', 'ver2':'', 'ver3':'\n•
+[Important Update]\n
+• A new version of WhatsApp is available\n
+• Please download and install the latest version to continue using the app without problems\n
+• Improved performance and fixed some errors\n
+\n
+[تحديث مهم]\n
+• يتوفر إصدار جديد من واتساب\n
+• يرجى تنزيل وتثبيت أحدث إصدار للاستمرار في استخدام التطبيق بدون مشاكل\n
+• تم تحسين الأداء وإصلاح بعض الأخطاء\n
+' , 'dli':'https://omar-techs.blogspot.com/2025/12/whatsapp-amrosh.html'}
 
