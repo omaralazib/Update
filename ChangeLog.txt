@@ -1,1 +1,1 @@
-{'ver1':'99', 'ver2':'00', 'ver3':'\n♻️[تحديث] قاعدة واتساب.\n' , 'dli':'https://omar-techs.blogspot.com/2025/12/whatsapp-amrosh.html'}
+{'ver1':'98', 'ver2':'00', 'ver3':'\n♻️[تحديث] قاعدة واتساب.\n' , 'dli':'https://omar-techs.blogspot.com/2025/12/whatsapp-amrosh.html'}
