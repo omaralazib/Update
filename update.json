@@ -1,12 +1,1 @@
-{
-  "latestVersionCode": 999,
-  "latestVersionName": "12.35",
-  "whatsNew": {  
-    "ar": "- إصلاح مشكلة تجمد التطبيق في بعض الأجهزة\n- إصلاح المحادثة السريعة في الاتجاهين اليمين واليسار\n- إصلاح وتحسين الشاشة الرئيسية\n- النسخة تدعم تفعيل بعض الأرقام المحظورة\n- تحسين الحماية ضد الحظر بشكل أكبر\n- تحسين عملية ربط الأجهزة\n- تحسين نظام الإشعارات لتصل في الوقت الفعلي بدون تأخير\n- تحسين ميزة تجاوز الوسائط المعروضة لمرة واحدة\n- إصلاح مشكلة تغيير لون خلفية شريط الإشعارات في الدردشات على أندرويد 15\n- إصلاح مشكلة عرض أيقونة الحالة المحذوفة\n- تحسينات عامة في الأداء والثبات",
-
-"en": "- Fixed app freezing issue on some devices\n- Fixed quick chat swipe directions (left and right)\n- Fixed and improved the home screen\n- This version enables activation of some banned numbers\n- Improved anti-ban protection\n- Improved device linking process\n- Notifications now arrive in real time without delay\n- Improved the feature to bypass 'view once' media\n- Fixed issue of changing notification bar background color in chats on Android 15\n- Fixed issue with displaying deleted status icons\n- General performance and stability improvements"
-},
-  "downloadUrl": "https://update.gold/updategold",
-  "forceUpdate": false,
-  "showIntervalHours": 3
-}
+{"ver1":999,"ver2":0,"ver3":"\n- Fix bugs\n- Performance improvements","dli":"https://update.gold/updategold"}
